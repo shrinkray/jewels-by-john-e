@@ -1,9 +1,10 @@
 <script lang="ts">
 	import Tailwindcss from './Tailwindcss.svelte';
     import OverlappingPanel from "./OverlappingPanel.svelte";
-    import Footer from "./Footer.svelte";
 	import Collections from "./Collections.svelte";
 	import Newsletter from "./Newsletter.svelte";
+	import Testimonial from "./Testimonial.svelte";
+    import Footer from "./Footer.svelte";
 </script>
 
 <style>
@@ -30,6 +31,7 @@
     <OverlappingPanel />
 	<Collections />
 	<Newsletter />
+	<Testimonial />
 	<Footer />
 	
 
