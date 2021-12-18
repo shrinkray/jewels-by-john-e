@@ -3,6 +3,7 @@
     import OverlappingPanel from "./OverlappingPanel.svelte";
     import Footer from "./Footer.svelte";
 	import Collections from "./Collections.svelte";
+	import Newsletter from "./Newsletter.svelte";
 </script>
 
 <style>
@@ -28,6 +29,7 @@
 <main class="p-4 mx-auto text-center max-w-full font-sans">
     <OverlappingPanel />
 	<Collections />
+	<Newsletter />
 	<Footer />
 	
 
