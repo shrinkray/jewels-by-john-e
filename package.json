@@ -1,11 +1,12 @@
 {
-  "name": "svelte-ts-tailwind-app",
+  "name": "svelte-jewels-app",
   "version": "1.0.0",
   "private": true,
   "scripts": {
     "build": "rollup -c",
     "dev": "rollup -c -w",
     "start": "sirv public",
+    "run": "sirv public  --port 5500",
     "check": "svelte-check --tsconfig ./tsconfig.json"
   },
   "devDependencies": {
