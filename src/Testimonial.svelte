@@ -29,7 +29,7 @@
                   I had to return a purchase that didn’t fit. The whole process was so simple that I ended up ordering two new items!
                 </p>
                 <cite class="mt-4 block font-semibold not-italic text-gray-900">
-                  Kelly McPherson, Montpellier
+                  Kelly McPherson, Montpelier
                 </cite>
               </div>
             </blockquote>
