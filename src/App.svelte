@@ -32,10 +32,5 @@
 	<Collections />
 	<Newsletter />
 	<Testimonial />
-	<Footer />
-	
-
-    
-
 </main>
 <Footer />
