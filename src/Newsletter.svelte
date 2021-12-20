@@ -2,7 +2,7 @@
 <div class="bg-sky-400">
   <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center">
     <div class="lg:w-0 lg:flex-1">
-      <h2 class="text-3xl font-extrabold tracking-tight text-white sm:text-4xl" id="newsletter-headline">
+      <h2 class="text-3xl font-extrabold font-serif tracking-tight text-white sm:text-4xl" id="newsletter-headline">
         Get the latest news and updates
       </h2>
       <p class="mt-3 max-w-3xl text-lg leading-6 text-gray-800">
