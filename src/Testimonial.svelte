@@ -3,7 +3,7 @@
         <!-- Testimonials -->
       <section aria-labelledby="testimonial-heading" class="relative py-24 max-w-7xl mx-auto px-4 sm:px-6 lg:py-32 lg:px-8">
         <div class="max-w-2xl mx-auto lg:max-w-none">
-          <h2 id="testimonial-heading" class="text-2xl font-extrabold tracking-tight text-gray-900">What are people saying?</h2>
+          <h2 id="testimonial-heading" class="text-3xl font-serif font-extrabold text-fuchsia-900">What are people saying?</h2>
 
           <div class="mt-16 space-y-16 lg:space-y-0 lg:grid lg:grid-cols-3 lg:gap-x-8">
             <blockquote class="sm:flex lg:block">
