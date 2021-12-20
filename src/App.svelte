@@ -7,18 +7,6 @@
     import Footer from "./Footer.svelte";
 </script>
 
-<style>
-    .font-sans	{
-        font-family: 'Inter', sans-serif;
-    }
-    .font-serif	{
-        font-family: 'Abril Fatface', cursive;
-    }
-    .font-mono	{
-        font-family: 'Fira Code', ui-monospace, Consolas, "Liberation Mono", monospace;
-    }
-</style>
-
 <Tailwindcss />
 
 <svelte:head>
