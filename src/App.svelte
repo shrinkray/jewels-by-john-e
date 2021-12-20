@@ -7,17 +7,6 @@
     import Footer from "./Footer.svelte";
 </script>
 
-<style>
-    .font-sans	{
-        font-family: 'Inter', sans-serif;
-    }
-    .font-serif	{
-        font-family: ui-serif, Georgia, Cambria, "Times New Roman", Times, serif;
-    }
-    .font-mono	{
-        font-family: 'Fira Code', ui-monospace, Consolas, "Liberation Mono", monospace;
-    }
-</style>
 
 <Tailwindcss />
 
@@ -25,6 +14,9 @@
 	<title>Jewels by John E</title>
 	<meta name="robots" content="noindex nofollow" />
 	<html lang="en" />
+	<link rel="preconnect" href="https://fonts.googleapis.com">
+	<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+	<link href="https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Exo+2:wght@200&display=swap" rel="stylesheet">
 </svelte:head>
 
 <main class="p-4 mx-auto text-center max-w-full font-sans">

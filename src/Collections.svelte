@@ -15,7 +15,7 @@
               Natural Stones
             </a>
           </h3>
-          <p class="text-base font-semibold text-gray-900">A current selection available</p>
+          <p class="text-base font-sans font-semibold text-gray-900">A current selection available</p>
         </div>
 
         <div class="group relative">
@@ -28,7 +28,7 @@
               Special Offers
             </a>
           </h3>
-          <p class="text-base font-semibold text-gray-900">Inventory changes daily, call for appointment</p>
+          <p class="text-base font-sans font-semibold text-gray-900">Inventory changes daily, call for appointment</p>
         </div>
 
         <div class="group relative">
@@ -41,7 +41,7 @@
               Collector's Collector
             </a>
           </h3>
-          <p class="text-base font-semibold text-gray-900">Buy, Sell, Trade, and Appraise</p>
+          <p class="text-base font-sans font-semibold text-gray-900">Buy, Sell, Trade, and Appraise</p>
         </div>
       </div>
     </div>

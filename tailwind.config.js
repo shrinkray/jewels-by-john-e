@@ -8,10 +8,12 @@ module.exports = {
     './public/index.html',
   ],
   theme: {
+    fontFamily: {
+      'body': ['"Exo 2"', 'sans-serif'],
+      'display': ['"Abril Fatface"', 'serif'],
+    },
     extend: {
-      colors: {
-        svelte: '#ff3e00',
-      },
+      colors: {},
     },
   },
   plugins: [
