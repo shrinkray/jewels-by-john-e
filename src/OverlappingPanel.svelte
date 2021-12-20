@@ -18,7 +18,7 @@
           <div class="absolute inset-0 bg-fuchsia-600 mix-blend-multiply"></div>
         </div>
         <div class="relative max-w-md mx-auto py-12 px-4 space-y-6 sm:max-w-3xl sm:py-16 sm:px-6 lg:max-w-none lg:p-0 lg:col-start-4 lg:col-span-6">
-          <h1 class="text-4xl font-serif italic font-extrabold text-white" id="join-heading">Jewels by John E</h1>
+          <h1 class="text-4xl font-serif italic font-extrabold text-white title" id="join-heading">Jewels by John E</h1>
           
           <p class="text-2xl font-sans font-bold text-white">Natural Stones and Swarovski Crystals. <br>Vintage and Costume Jewelry</p>
           

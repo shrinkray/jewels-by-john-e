@@ -1,4 +1,6 @@
 <style global>
+    @import url('https://fonts.googleapis.com/css2?family=Abril+Fatface&family=Exo+2:wght@200&display=swap');
+    
   @tailwind base;
   @tailwind components;
   @tailwind utilities;
