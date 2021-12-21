@@ -10,7 +10,7 @@ module.exports = {
   theme: {
     fontFamily: {
       'body': ['"Exo 2"', 'sans-serif'],
-      'display': ['"Abril Fatface"', 'serif'],
+      'display': ['"Crimson Pro"', 'serif'],
     },
     extend: {
       colors: {},

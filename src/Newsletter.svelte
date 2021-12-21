@@ -2,10 +2,10 @@
 <div class="bg-sky-400">
   <div class="max-w-7xl mx-auto py-12 px-4 sm:px-6 lg:py-16 lg:px-8 lg:flex lg:items-center">
     <div class="lg:w-0 lg:flex-1">
-      <h2 class="text-3xl font-extrabold font-serif tracking-tight text-white sm:text-4xl" id="newsletter-headline">
+      <h2 class="text-4xl font-extrabold font-serif tracking-tight text-white sm:text-4xl" id="newsletter-headline">
         Get the latest news and updates
       </h2>
-      <p class="mt-3 max-w-3xl text-lg leading-6 text-gray-800">
+      <p class="mt-3 text-xl max-w-3xl font-sans leading-6 text-gray-800">
         We're planning to attend area festivals in 2022. Sign up to receive our newsletter to get event announcements, deals and featured products.
       </p>
     </div>
@@ -19,7 +19,7 @@
           </button>
         </div>
       </form>
-      <p class="mt-3 text-sm text-gray-600">
+      <p class="mt-3 text-xl text-gray-600">
         We care about the protection of your data. Read our
         <a href="#" class="text-white font-medium underline">
           Privacy Policy.
